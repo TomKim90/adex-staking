@@ -26,7 +26,7 @@
     "withdraw": "Withdraw",
     "stake": "스테이킹 하기",
     "bond": "Bond",
-    "bonds": "채권",
+    "bonds": "예치",
     "unbond": "Unbond",
     "unbonds": "Unbonds",
     "addNewDeposit": "Add new deposit",
@@ -99,12 +99,12 @@
     "depositsLimitReached": "Pool deposits limit reached"
   },
   "bonds": {
-    "bondAmount": "채권 금액",
+    "bondAmount": "예치 금액",
     "canUnbond": "Can unbond",
     "canUnbondIn": "Can unbond in {{count}} day",
     "canUnbondIn_plural": "Can unbond in {{count}} days",
     "requestUnbond": "Request Unbond",
-    "bondExplanationMsg": "이 테이블은 상태, 금액 및 현재 APY 등의 정보 및 검증인 풀 (채권)에 있는 모든 개별 ADX 잔액을 보여줍니다. 액션 버튼을 사용하여 {{count}} 일 락업 기간이 지난 후 잠금 해제를 요청하고 ADX를 인출 할 수 있습니다.",
+    "bondExplanationMsg": "이 테이블은 상태, 금액 및 현재 APY 등의 정보 및 검증인 풀(예치된)에 있는 모든 개별 ADX 잔액을 보여줍니다. 액션 버튼을 사용하여 {{count}} 일 락업 기간이 지난 후 잠금 해제를 요청하고 ADX를 인출 할 수 있습니다.",
     "bondExplanationMsg_plural": "This table will show all your individual ADX deposits in validator pools (bonds), along with information as status, amount and current APY. By using the action buttons, you will be able to request unbonding and withdraw your ADX after the {{count}} days lock-up period.",
     "confirmationLabel": "I understand I am locking up my ADX for at least {{unbondDays}} days and I am familiar with the <e1> Terms and conditions </e1> and <e2> </e2>  staking conditions",
     "createBond": "Create a bond",
